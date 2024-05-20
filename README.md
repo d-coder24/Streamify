@@ -2,7 +2,7 @@
 
 Welcome to **Streamify**, a Netflix Clone Web App designed to bring back the nostalgia of the early days of streaming! Built with pure HTML and CSS, Streamify offers a seamless and engaging user experience. 🌟
 
-![Streamify Screenshot](path-to-screenshot.png)
+![Streamify Screenshot](assets/images/STREAMIFY.png)
 
 ## ✨ Features
 
@@ -22,12 +22,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/streamify.git
+    git clone https://github.com/d-coder24/Streamify.git
     ```
 
 2. **Navigate to the project directory:**
     ```sh
-    cd streamify
+    cd Streamify
     ```
 
 3. **Open `index.html` in your web browser:**
@@ -51,9 +51,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+Darshan - [@darshan.coder](https://instagram.com/darshan.coder) - darshan.career24gmail.com
 
-Project Link: [https://github.com/your-username/streamify](https://github.com/your-username/streamify)
+Project Link: [https://github.com/your-username/streamify](https://github.com/d-coder24/Streamify)
 
 ## 💬 Acknowledgements
 
