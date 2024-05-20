@@ -53,7 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Darshan - [@darshan.coder](https://instagram.com/darshan.coder) - darshan.career24gmail.com
 
-Project Link: [https://github.com/your-username/streamify](https://github.com/d-coder24/Streamify)
+Project Link: [https://github.com/d-coder24/Streamify](https://github.com/d-coder24/Streamify)
 
 ## 💬 Acknowledgements
 
